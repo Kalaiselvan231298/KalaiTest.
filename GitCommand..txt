@@ -1,0 +1,9 @@
+My name is kalaiselvan sekar from chennai.
+
+git status
+git commit -m "new file"
+git branch -m main
+git remote add origin https://github.com/Kalaiselvan231298/KalaiTest..git
+git push -u origin main
+git pull
+
